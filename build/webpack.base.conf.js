@@ -40,6 +40,7 @@ module.exports = {
       'store': resolve('src/store'),
       'api': resolve('src/api'),
       'router': resolve('src/router'),
+      'base': resolve('src/base')
     }
   },
   module: {
